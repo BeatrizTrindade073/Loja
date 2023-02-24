@@ -1,0 +1,8 @@
+{
+  "produto": [
+    { "id": 1, "nome": "Curso de HTML 5", "img": "html.png", "quant": 0, "preco": 190.00 },
+    { "id": 2, "nome": "Curso de CSS 3", "img": "css.png", "quant": 0, "preco": 159.99},
+    { "id": 3, "nome": "Curso de PHP", "img": "php.png", "quant": 0, "preco": 190.00},
+    { "id": 4, "nome": "Curso de JavaScript", "img": "js.png", "quant": 0, "preco": 255.00}
+  ]
+}
